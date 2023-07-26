@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: blueviolet;
+}
+
+.first{
+    display: flex;
+    justify-content: center;
+   height: 35vh;
+}
+
+.Zero :hover{
+    cursor: pointer;
+    color: deepskyblue;
+}
